@@ -26,6 +26,21 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Directory Structure
+
+```
+apps/
+├── web/
+│   └── src/
+│       ├── hello.controller.ts
+│       ├── app.module.ts
+│       └── main.ts
+└── task/
+    └── src/
+        ├── app.module.ts
+        └── main.ts
+```
+
 ## Project setup
 
 ```bash
